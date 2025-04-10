@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "N8N_PORT": "5678",
+      "GENERIC_TIMEZONE": "UTC"
+    }
+  },
+  "deploy": {
+    "startCommand": "n8n"
+  }
+}
